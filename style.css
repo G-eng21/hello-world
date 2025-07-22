@@ -5,9 +5,13 @@
 }
 
 h2 {
-  font-color: blue;
+  color: blue;
 }
 
 p {
   background-color: red;
+}
+
+li {
+  color: green;
 }
